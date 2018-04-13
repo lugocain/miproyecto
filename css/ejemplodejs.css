@@ -1,0 +1,20 @@
+  #btnclick{
+    background-color: #ee5500;
+    border: dotted #00ff00;
+    font-family:  verdana;    
+  }
+  
+  table,th,td{
+    border: 5px dashed #2710ff;
+
+    background-color: grey;
+    border-collapse: collapse;        /*Juntar lineas exteriores e interiores */
+      
+  }
+  
+  th,td{
+    
+        padding: 2px;
+  }
+  
+ 
